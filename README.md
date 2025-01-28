@@ -6,9 +6,9 @@
 
 (INSERT CODE EXAMPLE)
 
-- [ ] Issue 1
-- [ ] Issue 2: Add Screenshots to README.md
-- [ ] Issue 3
+- [x] Task 1: Complete Git Tutorial
+- [x] Task 2: Add Screenshots to README.md
+- [x] Task 3: Modify .html File
 - [ ] Issue 4
 - [ ] Issue 5
 
