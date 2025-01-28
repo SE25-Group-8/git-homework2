@@ -1,7 +1,8 @@
 ## 📝 Introduction
 
+![CSC 510 HW2- SC #1](https://github.com/user-attachments/assets/9696ac9a-2bdd-44f9-b081-5f22a6070ae2)
 
-(INSERT IMAGE)
+![CSC 510 HW2- SC #2](https://github.com/user-attachments/assets/8e7f7a64-b854-4446-a462-d17e0b856e6a)
 
 (INSERT CODE EXAMPLE)
 
