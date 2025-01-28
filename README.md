@@ -1,18 +1,17 @@
 ## 📝 Introduction
 
 Akhil Adusumilli Screenshots:
-![Main Topics](https://github.com/user-attachments/assets/85faca5b-6931-4081-be96-e98f4dfce9f0)
+![maintop](https://github.com/user-attachments/assets/52dfc675-a819-462c-994e-b76f631a04d0)
 
-
-![Remote Topics](https://github.com/user-attachments/assets/ed06a373-0187-4a9a-b35f-80f07f831bb8)
+![remote top](https://github.com/user-attachments/assets/7ba28ba4-5506-4a06-bd60-43069c1be3d9)
 
 
 (INSERT CODE EXAMPLE)
 
 - [X] Task 1: Complete Git Tutorial
 - [X] Task 2: Add Screenshots to README.md
-- [ ] Task 3: Modify .html File
-- [ ] Task 4: Merge latest changes
+- [X] Task 3: Modify .html File
+- [X] Task 4: Merge latest changes
 - [ ] Task 5: Review pull requests
 
 ![](https://img.shields.io/badge/GitHub-07C160?style=for-the-badge&logo=GitHub&logoColor=white)
